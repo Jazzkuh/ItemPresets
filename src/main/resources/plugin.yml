@@ -1,0 +1,8 @@
+name: ItemPresets
+version: '${project.version}'
+main: com.jazzkuh.itempresets.ItemPresets
+api-version: 1.16
+authors: [ Jazzkuh ]
+commands:
+  preset:
+    aliases: [ presets, itempresets ]
